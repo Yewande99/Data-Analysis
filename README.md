@@ -58,66 +58,33 @@ The analysis was performed in Microsoft Excel using:
 
 📎<img width="1597" height="589" alt="image" src="https://github.com/user-attachments/assets/fc9f68e7-dcd5-4065-bfd2-899b8a39808e" />
 
+**Task 7: Salary by Tenure**
+**Approach:** Pivot table analyzing salary progression based on years at the company.
+**Business Value:** Reveals retention incentives and career growth patterns.
 
-Task 7: Salary by Tenure
+📎<img width="1576" height="583" alt="image" src="https://github.com/user-attachments/assets/9b294a08-2a02-4dd3-aec7-31e8dad9f804" />
 
-Approach: Pivot table analyzing salary progression based on years at the company.
 
-Business Value: Reveals retention incentives and career growth patterns.
+**Category 3: Education & Salary Analysis**
 
-📎 [Insert Screenshot]
+**Task 8: Salary by Education Level & Department**
+**Approach:** Pivot table comparing education with salary levels.
+**Business Value:** Measures ROI of education on pay scale.
 
-Category 3: Absence & Tenure Analysis
+📎<img width="1587" height="584" alt="image" src="https://github.com/user-attachments/assets/3164ac10-969c-49d5-ac25-1e734ec5d8ba" />
+ 
+**Task 12: Employee Count by Education Level**
+**Approach:** Pivot table + pie chart showing education levels in each department.
+**Business Value:** Helps HR plan training & development.
 
-Task 8: Absenteeism by Department
+📎<img width="1599" height="587" alt="image" src="https://github.com/user-attachments/assets/5f0b367e-2bf6-4c85-95c4-efebd14e01d4" />
 
-Approach: Pivot table + bar chart to visualize total absences per department.
+**Task 13: Performance by Education Level & Job Role**
+**Approach:** Pivot table cross-tabulating education with performance.
+**Business Value:** Reveals how education influences performance outcomes.
 
-Business Value: Identifies departments most affected by absenteeism.
+📎 ![Uploading image.png…]()
 
-📎 [Insert Chart]
-
-Task 9: Absences by Performance Rating & Department
-
-Approach: Pivot table + bar chart to analyze how performance aligns with absence levels.
-
-Business Value: Provides insights into productivity challenges.
-
-📎 [Insert Chart]
-
-Task 10: Absences by Job Role & Gender
-
-Approach: Pivot table + clustered column chart.
-
-Business Value: Assesses whether absenteeism is linked to job type or gender.
-
-📎 [Insert Chart]
-
-Category 4: Education & Salary Analysis
-
-Task 11: Salary by Education Level & Department
-
-Approach: Pivot table comparing education with salary levels.
-
-Business Value: Measures ROI of education on pay scale.
-
-📎 [Insert Screenshot]
-
-Task 12: Employee Count by Education Level
-
-Approach: Pivot table + pie chart showing education levels in each department.
-
-Business Value: Helps HR plan training & development.
-
-📎 [Insert Pie Chart]
-
-Task 13: Performance by Education Level & Job Role
-
-Approach: Pivot table cross-tabulating education with performance.
-
-Business Value: Reveals how education influences performance outcomes.
-
-📎 [Insert Screenshot]
 
 Category 5: Location & Employee Distribution
 
