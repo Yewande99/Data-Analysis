@@ -83,34 +83,13 @@ The analysis was performed in Microsoft Excel using:
 **Approach:** Pivot table cross-tabulating education with performance.
 **Business Value:** Reveals how education influences performance outcomes.
 
-📎 ![Uploading image.png…]()
+📎<img width="1589" height="577" alt="image" src="https://github.com/user-attachments/assets/c8c7898f-2ca1-4181-b5db-e0dbc6e4d8d5" />
+ 
+**Category 5: Age & Gender Analysis**
 
-
-Category 5: Location & Employee Distribution
-
-Task 14: Employee Count by Location & Department
-
-Approach: Pivot table + map chart/bar chart.
-
-Business Value: Visualizes geographical workforce spread.
-
-📎 [Insert Map Chart]
-
-Task 15: Average Salary by Location
-
-Approach: Pivot table + geographical heatmap.
-
-Business Value: Evaluates salary competitiveness across regions.
-
-📎 [Insert Chart]
-
-Category 6: Age & Gender Analysis
-
-Task 16: Average Age by Job Role & Department
-
-Approach: Pivot table summarizing workforce age demographics.
-
-Business Value: Supports succession planning and generational workforce insights.
+**Task 14: Average Age by Job Role & Department**
+**Approach:** Pivot table summarizing workforce age demographics.
+**Business Value:** Supports succession planning and generational workforce insights.
 
 📎 [Insert Screenshot]
 
