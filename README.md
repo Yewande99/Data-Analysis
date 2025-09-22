@@ -85,75 +85,49 @@ The analysis was performed in Microsoft Excel using:
 
 📎<img width="1589" height="577" alt="image" src="https://github.com/user-attachments/assets/c8c7898f-2ca1-4181-b5db-e0dbc6e4d8d5" />
  
-**Category 5: Age & Gender Analysis**
+**Category 4: Age & Gender Analysis**
 
 **Task 14: Average Age by Job Role & Department**
 **Approach:** Pivot table summarizing workforce age demographics.
 **Business Value:** Supports succession planning and generational workforce insights.
 
-📎 [Insert Screenshot]
+📎<img width="1590" height="628" alt="image" src="https://github.com/user-attachments/assets/9fb466cd-be71-4666-b4b7-5b0ba2503060" />
 
-Task 17: Gender Distribution by Job Role
+**Task 15: Gender Distribution by Job Role**
+**Approach:** Pivot table + stacked bar chart.
+**Business Value:**Evaluates gender balance in job positions.
 
-Approach: Pivot table + stacked bar chart.
+📎<img width="1593" height="625" alt="image" src="https://github.com/user-attachments/assets/4797e94e-4a20-49f9-8faf-5859e0246805" />
 
-Business Value: Evaluates gender balance in job positions.
+**Task 16: Performance by Age Group**
+**Approach:** Pivot table + line chart to show trends.
+**Business Value:** Helps HR understand generational performance dynamics.
 
-📎 [Insert Chart]
+📎<img width="1577" height="629" alt="image" src="https://github.com/user-attachments/assets/1348bbf3-9a5d-4575-9a50-f24e90cb145c" />
 
-Task 18: Performance by Age Group
 
-Approach: Pivot table + line chart to show trends.
+**Category 8: Advanced Analysis & Dashboard**
 
-Business Value: Helps HR understand generational performance dynamics.
+**Task 17: Performance by Job Role, Department & Tenure**
+**Approach:** Pivot table + 3D clustered column chart.
+**Business Value:** Provides a multidimensional view of performance.
 
-📎 [Insert Line Chart]
+📎 <img width="1597" height="618" alt="image" src="https://github.com/user-attachments/assets/83095c10-3328-4a76-b5ab-6ccef5164e47" />
 
-Category 7: Hiring Trends
+**Task 18: Monthly Salary Expense by Department & Job Role**
+**Approach:** Pivot table showing total salary costs.
+**Business Value:** Helps finance and HR track payroll expenses.
 
-Task 19: Hiring by Year
+📎<img width="1570" height="627" alt="image" src="https://github.com/user-attachments/assets/b14ed517-84d7-444c-8b6d-00996bd272b2" />
 
-Approach: Pivot table + line chart tracking hires over time.
 
-Business Value: Shows recruitment patterns and company growth.
+**Task 23: Dashboard Creation**
+**Approach:** Combined pivot tables and charts into a single dashboard.
+**Business Value:** Provides management with an at-a-glance overview of key HR metrics.
 
-📎 [Insert Chart]
+📎<img width="731" height="611" alt="image" src="https://github.com/user-attachments/assets/c2194a8a-9ef4-4c68-80bd-ff509f4e6919" />
 
-Task 20: Hiring by Department & Year
-
-Approach: Pivot table + bar/area chart.
-
-Business Value: Highlights which departments are expanding fastest.
-
-📎 [Insert Chart]
-
-Category 8: Advanced Analysis & Dashboard
-
-Task 21: Performance by Job Role, Department & Tenure
-
-Approach: Pivot table + 3D clustered column chart.
-
-Business Value: Provides a multidimensional view of performance.
-
-📎 [Insert Chart]
-
-Task 22: Monthly Salary Expense by Department & Job Role
-
-Approach: Pivot table showing total salary costs.
-
-Business Value: Helps finance and HR track payroll expenses.
-
-📎 [Insert Screenshot]
-
-Task 23: Dashboard Creation
-
-Approach: Combined pivot tables and charts into a single dashboard.
-
-Business Value: Provides management with an at-a-glance overview of key HR metrics.
-
-📎 [Insert Screenshot: Final Dashboard]
-
-4. Key Insights & Recommendations
+**4. Key Insights & Recommendations**
 
 From the analysis, the following insights emerged:
 
@@ -167,7 +141,7 @@ Education level and performance showed moderate correlation, but not consistentl
 
 Gender distribution varied significantly by department, highlighting opportunities for diversity initiatives.
 
-Recommendations:
+**Recommendations:**
 
 Introduce retention programs in departments with high attrition.
 
@@ -177,7 +151,7 @@ Implement attendance management strategies in high-absence departments.
 
 Strengthen diversity & inclusion strategies in underrepresented job roles.
 
-5. Conclusion
+**5. Conclusion**
 
 This project demonstrates how Excel pivot tables and dashboards can provide powerful insights into HR challenges such as attrition, absenteeism, salary equity, and workforce planning.
 
